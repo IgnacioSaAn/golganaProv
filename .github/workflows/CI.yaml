@@ -63,4 +63,4 @@ jobs:
           git config user.email "ci-bot@users.noreply.github.com"
           git config user.name  "ci-bot"
           git commit -am "ci: update front/back image tags to ${{ github.sha }}"
-          git push
+          git push origin dev
