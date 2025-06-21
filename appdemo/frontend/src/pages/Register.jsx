@@ -50,7 +50,7 @@ const Register = () => {
     <div className="register-container">
       <div className="register-header">
         <div className="register-logo">GOLGANA</div>
-        <h1 className="register-title">Crear una cuenta</h1>
+        <h1 className="register-title">Crear una cuenta AAAAAAAAAAAA</h1>
         <p className="register-subtitle">
           Completa el formulario para unirte a la plataforma de gestión de predios agrícolas
         </p>
