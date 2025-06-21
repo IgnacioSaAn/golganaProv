@@ -2,7 +2,7 @@ name: Build & Publish 🐳
 
 on:
   push:
-    branches: [main]
+    branches: [dev]
 
 jobs:
   docker:
