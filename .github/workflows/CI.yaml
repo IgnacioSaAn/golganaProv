@@ -47,6 +47,7 @@ jobs:
           repository: IgnacioSaAn/manifiestosFinal
           token: ${{ secrets.GIT_PAT }}
           path: manifests
+          ref: dev
 
       - name: Update image tags in manifests
         run: |
